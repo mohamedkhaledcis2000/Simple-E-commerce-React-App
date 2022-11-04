@@ -1,0 +1,22 @@
+.card{
+    width: 16rem;
+    height: 150px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px 10px;
+
+
+
+}
+.card-title{
+    font-size: 19px;
+}
+.card img{
+    width: 240px;
+    height: 220px;
+    margin: auto;
+}
+.card .card-body{
+    height: 250px;
+    font-size: 18px;
+}
